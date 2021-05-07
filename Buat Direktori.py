@@ -2,7 +2,7 @@
 import os
 
 def main():
-    os.rename('Tugas','Muhammad Firnas Baslisca Putra_I0320063')
+    os.rename('Tugas',"Muhammad Firnas Baslisca Putra_I0320063")
 
 ifname = 'main'
 
