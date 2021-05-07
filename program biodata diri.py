@@ -1,4 +1,4 @@
-print("Program Biodata Diri")
+print('Program Biodata Diri')
 
 # Ambil Input Dari User
 nama = input('Masukkan Nama : ')
