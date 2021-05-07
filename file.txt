@@ -1,0 +1,6 @@
+Nama: Adit
+ umur: 17
+ Alamat: Solo
+Nama: Kevin
+ umur: 19
+ Alamat: Klaten
