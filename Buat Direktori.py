@@ -1,4 +1,3 @@
-# Tugas 1 "Buat Direktori"
 # Tugas 4 "Rename Direktori"
 import os
 
