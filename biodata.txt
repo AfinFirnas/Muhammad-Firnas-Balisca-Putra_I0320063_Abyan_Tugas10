@@ -1,0 +1,6 @@
+Nama: Wildan
+ umur: 21
+ Alamat: Solo
+Nama: Adit
+ umur: 18
+ Alamat: Jakarta
