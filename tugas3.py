@@ -1,5 +1,4 @@
-print('Selamat Datang Di Program Biodata')
-print('=================================')
+print('Program Biodata Diri')
 
 # Ambil Input Dari User
 nama = input('Masukkan Nama : ')
